@@ -4,6 +4,8 @@ body{
     line-height: 1.5;
     margin-left: 20px;
     padding: 0;
+    background-color: blueviolet;
+
 }
 h1{
     font-size: 40px;
@@ -24,6 +26,7 @@ p{
  .lorem {
     font-size: 25px;
     color: blue;
+    
 }
  #lorem {
     font-size: 25px;
